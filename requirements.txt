@@ -1,0 +1,15 @@
+pycocotools
+pycocoevalcap
+tqdm
+pyyaml
+torch
+azfuse @ git+https://github.com/microsoft/azfuse.git
+torchvision
+datasets
+transformers
+boto3
+bert-score
+accelerate
+evaluate
+wordfreq
+
